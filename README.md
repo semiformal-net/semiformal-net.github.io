@@ -1,3 +1,5 @@
 # Landing Page Jekyll theme
 
-A fork of [landing-page theme](https://github.com/swcool/landing-page-theme) for my own purposes.
+Don't use this! Please see [this instead](https://github.com/semiformal-net/semiformal.net)
+
+(This repo is safe to delete)
